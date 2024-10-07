@@ -2,9 +2,9 @@ It is a Voting Application.
 
 Application Features:
 
-  User can vote the Candidate.
+*  User can vote the Candidate.
   
-  Admin has the permission to see the vote details.
+*  Admin has the permission to see the vote details.
 
 Technology used in this Project:
 
@@ -19,14 +19,15 @@ Technology used in this Project:
   v) Hibernate: Hibernate ORM is used..
 
 Software And Tools Required:
-  Java JDK 8+
+
+*  Java JDK 8+
   
-  Eclipse EE or Spring Tool Suite
+*  Eclipse EE or Spring Tool Suite
   
-  MySQL
+*  MySQL
 
 Admin Password:
 
-  Username:-admin
+*  Username:-admin
   
-  Password:-admin
+*  Password:-admin
