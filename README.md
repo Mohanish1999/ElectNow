@@ -1,11 +1,13 @@
 It is a Voting Application.
 
 Application Features:
+
   User can vote the Candidate.
   
   Admin has the permission to see the vote details.
 
 Technology used in this Project:
+
   i) Thymeleaf,CSS : designing page layout.
   
   ii) Java : all the logic has been written in java.
@@ -23,6 +25,8 @@ Software And Tools Required:
   
   MySQL
 
-Admin Password
-Username:-admin
-Password:-admin
+Admin Password:
+
+  Username:-admin
+  
+  Password:-admin
